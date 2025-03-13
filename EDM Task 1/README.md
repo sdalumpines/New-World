@@ -26,6 +26,7 @@ This page shows the steps that I did to Clean, Normalize, and putting relationsh
 
 ## ScreenShots.
 - Before:
+<img src="Images/Before.JPG">
 - After:
 - Relationships:
  
