@@ -32,5 +32,4 @@ This page shows the steps that I did to Clean, Normalize, and putting relationsh
 - Relationships:
      <img src="Images/Relationships.png">
 
-Soft Copy
-- 
+[Soft Copy](EDM Task 1/Soft Copy/ways_to_clean_dataClean.xlsx)
