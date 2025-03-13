@@ -26,7 +26,7 @@ This page shows the steps that I did to Clean, Normalize, and putting relationsh
 
 ## ScreenShots.
 - Before:
-<img src="EDM Task 1/Images/Before.png">
+<img src="Images/Before.png">
 - After:
 - Relationships:
  
