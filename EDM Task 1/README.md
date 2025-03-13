@@ -31,3 +31,6 @@ This page shows the steps that I did to Clean, Normalize, and putting relationsh
      <img src="Images/After.png">
 - Relationships:
      <img src="Images/Relationships.png">
+
+Soft Copy
+- 
