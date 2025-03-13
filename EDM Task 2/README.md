@@ -6,7 +6,7 @@ This task is suppose to train us in cleaning a .csv (Comma-Seperated Values) and
 - Step 2: Duplicate the Raw Data
 - Step 3: Remove the Parenthesis and what's inside in the "Salary Estimate" Column
 - Step 4: Create two new Column named "Min Sal" and "Max Sal" by selecting "Salary Estimate" column, choosing to "Column from Examples" and type in the first digits at for the "Min Sal" and the last digits for "Max Sal" 
-- Step 5: 
+- Step 5: Adding Column with "Custom Column" 
 ## STEP 2 Normalization 
 - Performed 1NF
 - Perform Table split using 2NF
