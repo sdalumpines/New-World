@@ -1,6 +1,5 @@
-Task1.md
 # Midterm Lab Task 1
-This task is.....
+This page shows the steps that I did to Clean, Normalize, and putting relationships in a Data, with Screenshots of Before and After together with the Relationships of the Data.
 
 ## STEP 1. Data Cleaning
 - Step One: Autofitted columns and rows
