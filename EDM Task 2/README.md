@@ -28,6 +28,8 @@ This task is suppose to train us in cleaning a .csv (Comma-Seperated Values) and
 
 ## ScreenShots
 New Raw Data before:
+     <img src="Images/Before.png">
+     <img src="Images/Before2.png">
 New Raw Data after:
 Sal by Role Type dup:
 Sal by Size ref:
