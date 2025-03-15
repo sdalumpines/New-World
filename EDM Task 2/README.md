@@ -31,9 +31,16 @@ New Raw Data before:
      <img src="Images/Before.png">
      <img src="Images/Before2.png">
 New Raw Data after:
+     <img src="Images/After.png">
+     <img src="Images/After2.png">
+     <img src="Images/After3.png">
 Sal by Role Type dup:
+     <img src="Images/RoleTypeDup.png">
 Sal by Size ref:
+     <img src="Images/SizeRef.png">
 Sal by State ref:
+     <img src="Images/StateRef.png">
 Dependencies:
+     <img src="Images/Dependencies.png">
 
-
+[Soft Copy](https://github.com/sdalumpines/New-World/blob/b260b501dc1ebad975e13ba3eb527b6efc834c43/EDM%20Task%201/Soft%20Copy/ways_to_clean_dataClean.xlsx)
